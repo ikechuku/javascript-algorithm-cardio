@@ -1,0 +1,16 @@
+{
+  "name": "javascript algorithms",
+  "author": "Ikechuku Ukpa"
+  "version": "1.0.0",
+  "description": "ivities",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ikechuku Ukpa",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
